@@ -24,7 +24,9 @@ Neste repositório, você encontrará todos os arquivos necessários para imprim
 🎓 Contexto Acadêmico
 
 Este artefato é fruto de uma pesquisa científica rigorosa desenvolvida no Programa de Pós-Graduação em Ciência da Computação da Universidade Federal de Lavras (UFLA) : 
+
 •	Dissertação de Mestrado: https://repositorio.ufla.br/items/b058d793-af16-46b2-a17f-28ad02f53fbc 
+
 •	Mapeamento Sistemático da Literatura (MSL): VIEIRA, Sávio L.; FONSECA, Rafael C.; SOUZA, Maurício R. A.. A Systematic Mapping of Games for Teaching Programming. In: WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 32. , 2024, Brasília/DF. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 726-736. ISSN 2595-6175. DOI: https://doi.org/10.5753/wei.2024.2930 
 
 📄 Licença
