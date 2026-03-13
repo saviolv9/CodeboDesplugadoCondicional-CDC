@@ -4,9 +4,11 @@ O CodeBô Desplugado Condicional (CDC) é um jogo sério desplugado projetado pa
 O projeto é uma expansão do jogo CodeBô Unplugged (https://sites.google.com/view/codebo-game/codebo-unplugged ), adaptando suas mecânicas para atender às competências de Pensamento Computacional previstas na BNCC.
 
 🎯 Objetivo
+
 Facilitar a compreensão de conceitos abstratos de programação em escolas com ou sem infraestrutura tecnológica, promovendo a inclusão digital através de metodologias ativas e lúdicas.
 
 📦 Materiais Disponíveis
+
 Neste repositório, você encontrará todos os arquivos necessários para imprimir e montar seu próprio kit do CDC:
 •	Manual do Instrutor: Guia completo com regras, sugestões de aplicação em sala de aula e gabaritos.
 •	Tabuleiro: Arquivos em PDF para impressão (tamanho A4).
@@ -14,11 +16,13 @@ Neste repositório, você encontrará todos os arquivos necessários para imprim
 •	Peças do Jogo: Modelos para o robô.
 
 🚀 Como Utilizar
+
 1.	Faça o download dos arquivos.
 2.	Siga as instruções de impressão contidas no Manual.
 3.	Aplique a dinâmica conforme o roteiro pedagógico sugerido.
 
 🎓 Contexto Acadêmico
+
 Este artefato é fruto de uma pesquisa científica rigorosa desenvolvida no Programa de Pós-Graduação em Ciência da Computação da Universidade Federal de Lavras (UFLA) : 
 •	Dissertação de Mestrado: https://repositorio.ufla.br/items/b058d793-af16-46b2-a17f-28ad02f53fbc 
 •	Mapeamento Sistemático da Literatura (MSL): VIEIRA, Sávio L.; FONSECA, Rafael C.; SOUZA, Maurício R. A.. A Systematic Mapping of Games for Teaching Programming. In: WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO (WEI), 32. , 2024, Brasília/DF. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 726-736. ISSN 2595-6175. DOI: https://doi.org/10.5753/wei.2024.2930 
